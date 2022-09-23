@@ -1,0 +1,47 @@
+.flex {
+	display: flex;
+}
+
+.logo{
+	position: absolute;
+}
+
+.container{
+	width: 30%;
+	margin-left: 100px;
+
+}
+
+.labels{
+	line-height: 30px;
+}
+
+
+.lista{
+	display: flex;
+}
+
+.botones{
+	display: flex;
+	max-width: 160%;
+	vertical-align: text-top;
+}
+
+.box{
+	margin-left: 20px;
+	width: 70%;
+}
+
+footer {
+	text-align: left;
+	max-width: 40%;
+
+}
+
+.foot {
+	margin-left: 42%;
+	width: 60%;
+}
+
+
+
